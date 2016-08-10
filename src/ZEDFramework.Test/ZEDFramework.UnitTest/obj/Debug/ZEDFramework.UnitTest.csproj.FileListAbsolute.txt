@@ -1,0 +1,17 @@
+D:\Project\ZEDFramework\src\ZEDFramework.Test\ZEDFramework.UnitTest\bin\Debug\ZEDFramework.UnitTest.dll
+D:\Project\ZEDFramework\src\ZEDFramework.Test\ZEDFramework.UnitTest\bin\Debug\ZEDFramework.UnitTest.pdb
+D:\Project\ZEDFramework\src\ZEDFramework.Test\ZEDFramework.UnitTest\obj\Debug\ZEDFramework.UnitTest.dll
+D:\Project\ZEDFramework\src\ZEDFramework.Test\ZEDFramework.UnitTest\obj\Debug\ZEDFramework.UnitTest.pdb
+D:\ZEDFramework\src\ZEDFramework.Test\ZEDFramework.UnitTest\bin\Debug\ZEDFramework.UnitTest.dll
+D:\ZEDFramework\src\ZEDFramework.Test\ZEDFramework.UnitTest\bin\Debug\ZEDFramework.UnitTest.pdb
+D:\ZEDFramework\src\ZEDFramework.Test\ZEDFramework.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\ZEDFramework\src\ZEDFramework.Test\ZEDFramework.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\ZEDFramework\src\ZEDFramework.Test\ZEDFramework.UnitTest\obj\Debug\ZEDFramework.UnitTest.dll
+D:\ZEDFramework\src\ZEDFramework.Test\ZEDFramework.UnitTest\obj\Debug\ZEDFramework.UnitTest.pdb
+D:\ZEDFramework\src\ZEDFramework.Test\ZEDFramework.UnitTest\obj\Debug\ZEDFramework.UnitTest.csprojResolveAssemblyReference.cache
+E:\ZEDFramework\src\ZEDFramework.Test\ZEDFramework.UnitTest\bin\Debug\ZEDFramework.UnitTest.dll
+E:\ZEDFramework\src\ZEDFramework.Test\ZEDFramework.UnitTest\bin\Debug\ZEDFramework.UnitTest.pdb
+E:\ZEDFramework\src\ZEDFramework.Test\ZEDFramework.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\ZEDFramework\src\ZEDFramework.Test\ZEDFramework.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\ZEDFramework\src\ZEDFramework.Test\ZEDFramework.UnitTest\obj\Debug\ZEDFramework.UnitTest.dll
+E:\ZEDFramework\src\ZEDFramework.Test\ZEDFramework.UnitTest\obj\Debug\ZEDFramework.UnitTest.pdb

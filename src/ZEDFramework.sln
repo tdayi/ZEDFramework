@@ -1,0 +1,106 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-ZEDFramework.Collection", "01-ZEDFramework.Collection", "{B5DC7030-8F0C-47C2-8353-569F591CB756}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-ZEDFramework.Test", "03-ZEDFramework.Test", "{14EDCA4C-50EC-4D58-98F7-8213068F22E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-ZEDFramework.Encryptor", "02-ZEDFramework.Encryptor", "{2BD18DF5-2DA9-49C0-85D8-6D1957C7D97E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZEDFramework.Collection.Infrastructure", "ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure\ZEDFramework.Collection.Infrastructure.csproj", "{866105C1-7E5A-4F87-B004-4D3C45361C18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZEDFramework.Collection.Infrastructure.AutoMapper", "ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.AutoMapper\ZEDFramework.Collection.Infrastructure.AutoMapper.csproj", "{5862CC3C-D591-4CC4-9469-B18C51972D8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZEDFramework.Collection.Infrastructure.EntityFramework", "ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.EntityFramework\ZEDFramework.Collection.Infrastructure.EntityFramework.csproj", "{D814678B-7E26-44AE-949E-6E30680F0B79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZEDFramework.Collection.Infrastructure.Mvc", "ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Mvc\ZEDFramework.Collection.Infrastructure.Mvc.csproj", "{EADB649D-1367-4481-AE56-0F394F76381E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZEDFramework.Collection.Infrastructure.Security", "ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Security\ZEDFramework.Collection.Infrastructure.Security.csproj", "{C3FC8947-8BD7-47AD-8F46-2ACEB041FC65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZEDFramework.Collection.Infrastructure.TxFFileTransaction", "ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.TxFFileTransaction\ZEDFramework.Collection.Infrastructure.TxFFileTransaction.csproj", "{1D3E8113-A22D-4E09-A1EC-EC6529F435BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZEDFramework.Collection.Infrastructure.UnityFramework", "ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.UnityFramework\ZEDFramework.Collection.Infrastructure.UnityFramework.csproj", "{240FA186-56D6-4B28-81A4-188E7E504CDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZEDFramework.EncryptorApp", "ZEDFramework.Encryptor\ZEDFramework.EncryptorApp\ZEDFramework.EncryptorApp.csproj", "{C89DA78C-B17B-4588-A922-ED92EDF7910C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZEDFramework.UnitTest", "ZEDFramework.Test\ZEDFramework.UnitTest\ZEDFramework.UnitTest.csproj", "{050F8879-5AA7-4901-A7CA-FFBFDC1A6B95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZEDFramework.Collection.Infrastructure.JsonNET", "ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.JsonNET\ZEDFramework.Collection.Infrastructure.JsonNET.csproj", "{09759C85-EB0B-497B-937B-2EB3DC26CCDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZEDFramework.Collection.Infrastructure.IonicZip", "ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.IonicZip\ZEDFramework.Collection.Infrastructure.IonicZip.csproj", "{1181B5EA-E4EF-471C-9EB9-BEFA10CB726D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZEDFramework.Collection.Infrastructure.Xml", "ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Xml\ZEDFramework.Collection.Infrastructure.Xml.csproj", "{9DC254FA-07A2-4259-862D-8A80860E3407}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{866105C1-7E5A-4F87-B004-4D3C45361C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{866105C1-7E5A-4F87-B004-4D3C45361C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{866105C1-7E5A-4F87-B004-4D3C45361C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{866105C1-7E5A-4F87-B004-4D3C45361C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5862CC3C-D591-4CC4-9469-B18C51972D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5862CC3C-D591-4CC4-9469-B18C51972D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5862CC3C-D591-4CC4-9469-B18C51972D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5862CC3C-D591-4CC4-9469-B18C51972D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D814678B-7E26-44AE-949E-6E30680F0B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D814678B-7E26-44AE-949E-6E30680F0B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D814678B-7E26-44AE-949E-6E30680F0B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D814678B-7E26-44AE-949E-6E30680F0B79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EADB649D-1367-4481-AE56-0F394F76381E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADB649D-1367-4481-AE56-0F394F76381E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADB649D-1367-4481-AE56-0F394F76381E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADB649D-1367-4481-AE56-0F394F76381E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3FC8947-8BD7-47AD-8F46-2ACEB041FC65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3FC8947-8BD7-47AD-8F46-2ACEB041FC65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3FC8947-8BD7-47AD-8F46-2ACEB041FC65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3FC8947-8BD7-47AD-8F46-2ACEB041FC65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D3E8113-A22D-4E09-A1EC-EC6529F435BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D3E8113-A22D-4E09-A1EC-EC6529F435BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D3E8113-A22D-4E09-A1EC-EC6529F435BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D3E8113-A22D-4E09-A1EC-EC6529F435BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{240FA186-56D6-4B28-81A4-188E7E504CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240FA186-56D6-4B28-81A4-188E7E504CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240FA186-56D6-4B28-81A4-188E7E504CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240FA186-56D6-4B28-81A4-188E7E504CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C89DA78C-B17B-4588-A922-ED92EDF7910C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C89DA78C-B17B-4588-A922-ED92EDF7910C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C89DA78C-B17B-4588-A922-ED92EDF7910C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C89DA78C-B17B-4588-A922-ED92EDF7910C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{050F8879-5AA7-4901-A7CA-FFBFDC1A6B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{050F8879-5AA7-4901-A7CA-FFBFDC1A6B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{050F8879-5AA7-4901-A7CA-FFBFDC1A6B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{050F8879-5AA7-4901-A7CA-FFBFDC1A6B95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09759C85-EB0B-497B-937B-2EB3DC26CCDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09759C85-EB0B-497B-937B-2EB3DC26CCDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09759C85-EB0B-497B-937B-2EB3DC26CCDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09759C85-EB0B-497B-937B-2EB3DC26CCDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1181B5EA-E4EF-471C-9EB9-BEFA10CB726D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1181B5EA-E4EF-471C-9EB9-BEFA10CB726D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1181B5EA-E4EF-471C-9EB9-BEFA10CB726D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1181B5EA-E4EF-471C-9EB9-BEFA10CB726D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DC254FA-07A2-4259-862D-8A80860E3407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC254FA-07A2-4259-862D-8A80860E3407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC254FA-07A2-4259-862D-8A80860E3407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC254FA-07A2-4259-862D-8A80860E3407}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{866105C1-7E5A-4F87-B004-4D3C45361C18} = {B5DC7030-8F0C-47C2-8353-569F591CB756}
+		{5862CC3C-D591-4CC4-9469-B18C51972D8A} = {B5DC7030-8F0C-47C2-8353-569F591CB756}
+		{D814678B-7E26-44AE-949E-6E30680F0B79} = {B5DC7030-8F0C-47C2-8353-569F591CB756}
+		{EADB649D-1367-4481-AE56-0F394F76381E} = {B5DC7030-8F0C-47C2-8353-569F591CB756}
+		{C3FC8947-8BD7-47AD-8F46-2ACEB041FC65} = {B5DC7030-8F0C-47C2-8353-569F591CB756}
+		{1D3E8113-A22D-4E09-A1EC-EC6529F435BD} = {B5DC7030-8F0C-47C2-8353-569F591CB756}
+		{240FA186-56D6-4B28-81A4-188E7E504CDA} = {B5DC7030-8F0C-47C2-8353-569F591CB756}
+		{09759C85-EB0B-497B-937B-2EB3DC26CCDC} = {B5DC7030-8F0C-47C2-8353-569F591CB756}
+		{1181B5EA-E4EF-471C-9EB9-BEFA10CB726D} = {B5DC7030-8F0C-47C2-8353-569F591CB756}
+		{9DC254FA-07A2-4259-862D-8A80860E3407} = {B5DC7030-8F0C-47C2-8353-569F591CB756}
+		{050F8879-5AA7-4901-A7CA-FFBFDC1A6B95} = {14EDCA4C-50EC-4D58-98F7-8213068F22E5}
+		{C89DA78C-B17B-4588-A922-ED92EDF7910C} = {2BD18DF5-2DA9-49C0-85D8-6D1957C7D97E}
+	EndGlobalSection
+EndGlobal

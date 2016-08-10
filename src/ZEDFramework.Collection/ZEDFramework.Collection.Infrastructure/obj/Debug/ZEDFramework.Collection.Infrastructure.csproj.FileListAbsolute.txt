@@ -1,0 +1,13 @@
+D:\Project\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure\bin\Debug\ZEDFramework.Collection.Infrastructure.dll
+D:\Project\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure\bin\Debug\ZEDFramework.Collection.Infrastructure.pdb
+D:\Project\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure\obj\Debug\ZEDFramework.Collection.Infrastructure.dll
+D:\Project\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure\obj\Debug\ZEDFramework.Collection.Infrastructure.pdb
+D:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure\bin\Debug\ZEDFramework.Collection.Infrastructure.dll
+D:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure\bin\Debug\ZEDFramework.Collection.Infrastructure.pdb
+D:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure\obj\Debug\ZEDFramework.Collection.Infrastructure.dll
+D:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure\obj\Debug\ZEDFramework.Collection.Infrastructure.pdb
+E:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure\bin\Debug\ZEDFramework.Collection.Infrastructure.dll
+E:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure\bin\Debug\ZEDFramework.Collection.Infrastructure.pdb
+E:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure\obj\Debug\ZEDFramework.Collection.Infrastructure.dll
+E:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure\obj\Debug\ZEDFramework.Collection.Infrastructure.pdb
+E:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure\obj\Debug\ZEDFramework.Collection.Infrastructure.csprojResolveAssemblyReference.cache

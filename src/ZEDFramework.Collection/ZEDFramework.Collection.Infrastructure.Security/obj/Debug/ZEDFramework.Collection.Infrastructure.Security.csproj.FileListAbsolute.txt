@@ -1,0 +1,12 @@
+D:\Project\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Security\bin\Debug\ZEDFramework.Collection.Infrastructure.Security.dll
+D:\Project\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Security\bin\Debug\ZEDFramework.Collection.Infrastructure.Security.pdb
+D:\Project\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Security\obj\Debug\ZEDFramework.Collection.Infrastructure.Security.dll
+D:\Project\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Security\obj\Debug\ZEDFramework.Collection.Infrastructure.Security.pdb
+D:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Security\bin\Debug\ZEDFramework.Collection.Infrastructure.Security.dll
+D:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Security\bin\Debug\ZEDFramework.Collection.Infrastructure.Security.pdb
+D:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Security\obj\Debug\ZEDFramework.Collection.Infrastructure.Security.dll
+D:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Security\obj\Debug\ZEDFramework.Collection.Infrastructure.Security.pdb
+E:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Security\bin\Debug\ZEDFramework.Collection.Infrastructure.Security.dll
+E:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Security\bin\Debug\ZEDFramework.Collection.Infrastructure.Security.pdb
+E:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Security\obj\Debug\ZEDFramework.Collection.Infrastructure.Security.dll
+E:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Security\obj\Debug\ZEDFramework.Collection.Infrastructure.Security.pdb

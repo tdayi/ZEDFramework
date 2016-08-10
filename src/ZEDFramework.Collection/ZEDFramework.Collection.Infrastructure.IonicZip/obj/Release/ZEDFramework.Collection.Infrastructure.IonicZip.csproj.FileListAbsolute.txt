@@ -1,0 +1,16 @@
+D:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.IonicZip\bin\Release\ZEDFramework.Collection.Infrastructure.IonicZip.dll
+D:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.IonicZip\bin\Release\ZEDFramework.Collection.Infrastructure.IonicZip.pdb
+D:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.IonicZip\bin\Release\Ionic.Zip.dll
+D:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.IonicZip\bin\Release\ZEDFramework.Collection.Infrastructure.dll
+D:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.IonicZip\bin\Release\ZEDFramework.Collection.Infrastructure.pdb
+D:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.IonicZip\obj\Release\ZEDFramework.Collection.Infrastructure.IonicZip.csprojResolveAssemblyReference.cache
+D:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.IonicZip\obj\Release\ZEDFramework.Collection.Infrastructure.IonicZip.dll
+D:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.IonicZip\obj\Release\ZEDFramework.Collection.Infrastructure.IonicZip.pdb
+E:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.IonicZip\bin\Release\ZEDFramework.Collection.Infrastructure.IonicZip.dll
+E:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.IonicZip\bin\Release\ZEDFramework.Collection.Infrastructure.IonicZip.pdb
+E:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.IonicZip\bin\Release\Ionic.Zip.dll
+E:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.IonicZip\bin\Release\ZEDFramework.Collection.Infrastructure.dll
+E:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.IonicZip\bin\Release\ZEDFramework.Collection.Infrastructure.pdb
+E:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.IonicZip\obj\Release\ZEDFramework.Collection.Infrastructure.IonicZip.csprojResolveAssemblyReference.cache
+E:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.IonicZip\obj\Release\ZEDFramework.Collection.Infrastructure.IonicZip.dll
+E:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.IonicZip\obj\Release\ZEDFramework.Collection.Infrastructure.IonicZip.pdb

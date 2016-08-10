@@ -1,0 +1,14 @@
+D:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Xml\bin\Debug\ZEDFramework.Collection.Infrastructure.Xml.dll
+D:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Xml\bin\Debug\ZEDFramework.Collection.Infrastructure.Xml.pdb
+D:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Xml\bin\Debug\ZEDFramework.Collection.Infrastructure.dll
+D:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Xml\bin\Debug\ZEDFramework.Collection.Infrastructure.pdb
+D:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Xml\obj\Debug\ZEDFramework.Collection.Infrastructure.Xml.csprojResolveAssemblyReference.cache
+D:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Xml\obj\Debug\ZEDFramework.Collection.Infrastructure.Xml.dll
+D:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Xml\obj\Debug\ZEDFramework.Collection.Infrastructure.Xml.pdb
+E:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Xml\bin\Debug\ZEDFramework.Collection.Infrastructure.Xml.dll
+E:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Xml\bin\Debug\ZEDFramework.Collection.Infrastructure.Xml.pdb
+E:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Xml\bin\Debug\ZEDFramework.Collection.Infrastructure.dll
+E:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Xml\bin\Debug\ZEDFramework.Collection.Infrastructure.pdb
+E:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Xml\obj\Debug\ZEDFramework.Collection.Infrastructure.Xml.csprojResolveAssemblyReference.cache
+E:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Xml\obj\Debug\ZEDFramework.Collection.Infrastructure.Xml.dll
+E:\ZEDFramework\src\ZEDFramework.Collection\ZEDFramework.Collection.Infrastructure.Xml\obj\Debug\ZEDFramework.Collection.Infrastructure.Xml.pdb
